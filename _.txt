@@ -1,0 +1,4 @@
+site;login;senha
+teste;gabriel;senha
+LOL conta 1;RPGTroll2;gfonso22
+LOL conta 2;RPGTroll3;gfonso33
